@@ -1,0 +1,5 @@
+{
+  "name": "IMEI Validator",
+  "description": "A professional tool to verify mobile device IMEI numbers using the Luhn Algorithm, helping users identify valid and authentic devices.",
+  "requestFramePermissions": []
+}
